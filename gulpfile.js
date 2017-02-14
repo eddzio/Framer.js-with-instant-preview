@@ -20,6 +20,7 @@ gulp.task('default', ['coffee'], function() {
         server: "./Project"
     });
 
+	gulp.watch("./Project/*.coffee", ['coffee']);
     gulp.watch("./Project/*.coffee").on('change', browserSync.reload);
 });
 
