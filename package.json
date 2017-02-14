@@ -1,0 +1,17 @@
+{
+  "name": "learning-framer",
+  "version": "1.0.0",
+  "description": "using gulp to compile coffeeScript and inject it into the browser as a replacement for Framer Studio or to use in windows",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eddzio",
+  "license": "ISC"
+}
