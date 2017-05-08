@@ -1,6 +1,7 @@
 # Framer.js-with-instant-preview
 Use Framer.js with instant preview in browser in just a few steps with the help of Gulp, Sublime and BrowserSync
 
+Framer Library is an open source JavaScript framework for high fidelity prototyping. Learn more about it at: https://github.com/koenbok/Framer
 
 Want to learn Framer.js but don't have the budget for Framer Studio? 
 
