@@ -21,6 +21,6 @@ Instructions
 	In Windows Search cmd and open it
 
 4. On the terminal, go to the Framer Folder
-5. Once you are in the Framer folder, write Gulp and press enter
+5. Once you are in the Framer folder, write gulp and press enter
 6. A Chrome tab should open and display the Framer logo
 7. To modify the file, open Project/app.coffee 
