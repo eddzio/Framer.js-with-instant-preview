@@ -15,7 +15,7 @@ Requirements:
 
 Instructions
 
-1. Clone the proyect to you machine
+1. Clone the project to you machine
 2. Open Sublime and add the Framer folder (File -> Open)
 3. Open the terminal 
 	In Mac go to Applications -> Terminal
@@ -25,3 +25,8 @@ Instructions
 5. Once you are in the Framer folder, write gulp and press enter
 6. A Chrome tab should open and display the Framer logo
 7. To modify the file, open Project/app.coffee 
+8. You're ready to go!
+
+The Chrome preview updates automatically every time you save the file.
+
+Happy prototyping :)
